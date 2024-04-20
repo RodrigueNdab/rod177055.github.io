@@ -1,0 +1,15 @@
+---
+title: "Scoping review on GI cancers in Zambia"
+author: "Rodrigue NDABASHINZE"
+date: "2024-04-20"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This was a project highlighting gaps in cancer research in Africa specifically in Zambia. You can find the project [here](https://mjz.co.zm/index.php/mjz/article/view/400){target="_blank"}
+
+```{r}
+
+1 + 1
+
+```

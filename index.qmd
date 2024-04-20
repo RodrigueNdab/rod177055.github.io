@@ -1,0 +1,25 @@
+---
+title: "Rodrigue NDABASHINZE"
+image: image.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ndabrodriguez
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/rodrigue-ndabashinze-md-mph-msc-76093ab5/
+    - icon: github
+      text: Github
+      href: https://github.com/rod177055
+
+---
+
+Rodrigue Ndabashinze, MD, MPH, MSc, is a dedicated physician scientist with a passion for global health epidemiology, health technology assessment, and data science. He currently serves as a medical officer with a strong background in public health, particularly in the realm of infectious diseases on a global scale. Dr. Ndabashinze is committed to evidence-based healthcare and has expertise in systematic reviews and meta-analysis. He is also a skilled user of various data analysis tools, including R, STATA, and Python.
+
+In his professional journey, Dr. Ndabashinze has taken on diverse roles, including his current position as a mentee at the Council of State and Territorial Epidemiologists, where he is honing his skills under expert guidance. He is also the Biomedical, Medical, and Public Health Projects Director at the Evidence-Based Scientific Consortium (EBASC), where he applies his knowledge to make a meaningful impact. Additionally, he serves as a Deputy Director in charge of care at CLINIQUE SAINT JEAN, ensuring the well-being of those under his supervision.
+
+Dr. Ndabashinze's educational background is impressive, with a Master's degree in Health Economics from the James Lind Institute and ongoing studies at Maastricht University, where he is pursuing a Master's in Epidemiology. He is also certified in strategic project management by the Swiss Tropical and Public Health Institute. His skill set includes GIS, DHS Health Data Mapping, and a proficiency in using ArcGIS for spatial analysis.
+
+With a strong network of connections and a dedication to staying at the forefront of his field, Dr. Ndabashinze is an asset to any global health initiative. His combination of medical expertise, public health knowledge, and data analysis skills makes him a valuable contributor to improving healthcare outcomes on a global scale.

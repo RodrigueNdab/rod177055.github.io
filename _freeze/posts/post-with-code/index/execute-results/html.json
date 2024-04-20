@@ -1,0 +1,14 @@
+{
+  "hash": "b677bdae7953ee848e38932cf10eab6a",
+  "result": {
+    "markdown": "---\ntitle: \"Scoping review on GI cancers in Zambia\"\nauthor: \"Rodrigue NDABASHINZE\"\ndate: \"2024-04-20\"\ncategories: [code, analysis, r]\nimage: \"image.jpg\"\n---\n\n\nThis was a project highlighting gaps in cancer research in Africa specifically in Zambia. You can find the project [here](https://mjz.co.zm/index.php/mjz/article/view/400){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
