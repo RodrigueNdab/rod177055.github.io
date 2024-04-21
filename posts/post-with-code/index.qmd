@@ -2,7 +2,7 @@
 title: "Scoping review on GI cancers in Zambia"
 author: "Rodrigue NDABASHINZE"
 date: "2024-04-20"
-categories: [code, analysis, r]
+categories: [code, analysis, r, projects]
 image: "image.jpg"
 ---
 

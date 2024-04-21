@@ -2,7 +2,7 @@ project:
   type: website
   output-dir : "docs"
 website:
-  title: "Rodrigue NDABASHINZE"
+  title: "Global Health Epidemiologist"
   navbar:
     left :
       - text : "Home"
@@ -12,14 +12,16 @@ website:
       - text : "CV"
         file : cv.qmd
     right:
-      - about.qmd
+      - about me
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: linked-in
+        href: https://linkedin.com/
 format:
   html:
-    theme: litera
+    theme: sandstone
     css: styles.css
 
 editor: visual
